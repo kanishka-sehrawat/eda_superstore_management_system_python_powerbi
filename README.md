@@ -13,7 +13,6 @@ _Analysing store efficiency and profitability to support strategic purchasing an
 - <a href="#project-structure">Project Structure</a>
 - <a href="#data-cleaning-preparation">Data Cleaning & Preparation</a>
 - <a href="#exploratory-data-analysis-eda">Exploratory Data Analysis</a>
-- <a href="#research-questions-key-findings">Reasearch Question & Key findings</a>
 - <a href="#dashboard">Dashboard</a>
 - <a href="#how-to-run-this-project">How to run this project<a/>
 - <a href="#final-recommendations">Final Recommandation</a>
