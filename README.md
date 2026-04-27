@@ -32,6 +32,7 @@ This project analyzes a Superstore Management System using a self-created datase
 
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
 - A self-generated Excel dataset (.xls) stored in the /data/ folder
+
 - Data was cleaned, transformed, and used to create a summary table for analysis
 
 <h2><a class="anchor" id="tools-technologies"></a>Tools & Technologies</h2>
