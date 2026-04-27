@@ -106,7 +106,7 @@ Insights from EDA were used to design Power BI visuals such as KPI cards, region
 
 ![Superstore Management Dashboard](https://github.com/kanishka-sehrawat/eda_superstore_management_system_python_powerbi/blob/d0d07f88d99edbd34db46758cf1f23a6ab41a4ff/Dashboard(page-02).png)
 
-![Superstore Management Dashboard](
+![Superstore Management Dashboard](https://github.com/kanishka-sehrawat/eda_superstore_management_system_python_powerbi/blob/0585cbad471a4d13de51c3ddffd3f65927f26b3a/Dashboard(page-03).png)
 
 
 ###  How to Run This Project
