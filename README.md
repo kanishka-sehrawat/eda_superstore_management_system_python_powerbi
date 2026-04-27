@@ -35,8 +35,8 @@ This project analyzes a Superstore Management System using a self-created datase
 - Data was cleaned, transformed, and used to create a summary table for analysis
 
 <h2><a class="anchor" id="tools-technologies"></a>Tools & Technologies</h2>
-- Python(Pandas,Numpy,Matplotlib,Seaborn)
-- Power BI(Interactive Visualisation)
+ - Python(Pandas,Numpy,Matplotlib,Seaborn)
+ - Power BI(Interactive Visualisation)
 
 ---
 </h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
