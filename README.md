@@ -42,19 +42,15 @@ This project analyzes a Superstore Management System using a self-created datase
 
 ---
 </h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
-```text
+
 superstore-analysis/
-├── data/
-│   └── superstore_data.xls
-├── notebooks/
-│   └── analysis.ipynb
-├── dashboard/
-│   └── superstore_dashboard.pbix
-├── images/
-│   └── dashboard_preview.png
-├── README.md
-└── requirements.txt
-```
+* data/:superstore_data.xls
+* notebooks/:analysis.ipynb
+* dashboard/:superstore_dashboard.pbix
+* images/: dashboard_preview
+* README.md:Project Documentation
+* requirements.txt:Python dependecies
+
 
 <h2><a class="anchor" id="data_cleaning-preparation"></a>Data Cleaning & Preparation</h2>
 -The dataset was synthetically generated, ensuring controlled data quality with no missing values.
