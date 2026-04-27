@@ -24,23 +24,23 @@ _Analysing store efficiency and profitability to support strategic purchasing an
 
 This project presents an end-to-end analysis of a Superstore Management System using a self-generated dataset. Python was used for data creation, exploratory analysis, and hypothesis testing, while Power BI was used to develop interactive dashboards. The analysis provides actionable insights into sales performance, customer purchasing behavior, pricing strategies, and inventory optimization.
 
-## business-problem
+## Business-problem
 
 This project analyzes a Superstore Management System using a self-created dataset to address key challenges in retail sales and inventory management. 
 - It identifies underperforming products and categories, evaluates regional and payment-based contributions to revenue and profit, and examines purchasing efficiency.
 - The analysis also highlights inventory turnover inefficiencies and applies statistical methods to validate performance differences, enabling data-driven optimization of pricing, sales, and inventory strategies.
 
-##  dataset
+##  Dataset
 - A self-generated Excel dataset (.xls) stored in the /data/ folder
 
 - Data was cleaned, transformed, and used to create a summary table for analysis
 
-## tools-technologies
+## Tools-technologies
 - Python(Pandas,Numpy,Matplotlib,Seaborn)
 
 - Power BI(Interactive Visualisation)
 
-## project-structure
+## Project-structure
 ### superstore-analysis/
 * data/:superstore_data.xls
 * notebooks/:analysis.ipynb
@@ -50,7 +50,7 @@ This project analyzes a Superstore Management System using a self-created datase
 * requirements.txt:Python dependecies
 
 
-## data_cleaning-preparation
+## Data_cleaning-preparation
 - The dataset was synthetically generated, ensuring controlled data quality with no missing values.
 
 - Standardized data types and addressed outliers to enhance data integrity
@@ -58,7 +58,7 @@ This project analyzes a Superstore Management System using a self-created datase
 - Developed aggregated summary tables across categories, regions, and payment methods to support dashboard insights
 
 
-## exploratory-data-analysis
+## Exploratory-data-analysis
 The exploratory data analysis (EDA) phase was conducted to understand the structure, patterns, and key relationships within the Superstore dataset. Since the dataset was self-generated, this step also ensured data consistency and realism.
 
 **1.Data Understanding:**
@@ -92,7 +92,7 @@ Explored relationships between variables such as:
 
 Insights from EDA were used to design Power BI visuals such as KPI cards, regional performance charts, and payment method analysis.
 
-## dashboard
+## Dashboard
 - Dynamic filtering by region, category, and payment method
 
 - KPI cards highlighting total sales, profit, and top-performing payment method
