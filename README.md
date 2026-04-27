@@ -31,14 +31,14 @@ This project analyzes a Superstore Management System using a self-created datase
 - The analysis also highlights inventory turnover inefficiencies and applies statistical methods to validate performance differences, enabling data-driven optimization of pricing, sales, and inventory strategies.
 
 ##  dataset
--- A self-generated Excel dataset (.xls) stored in the /data/ folder
+- A self-generated Excel dataset (.xls) stored in the /data/ folder
 
--- Data was cleaned, transformed, and used to create a summary table for analysis
+- Data was cleaned, transformed, and used to create a summary table for analysis
 
 ## tools-technologies
--- Python(Pandas,Numpy,Matplotlib,Seaborn)
+- Python(Pandas,Numpy,Matplotlib,Seaborn)
 
--- Power BI(Interactive Visualisation)
+- Power BI(Interactive Visualisation)
 
 ## project-structure
 ### superstore-analysis/
@@ -70,27 +70,23 @@ Checked for missing values, duplicates, and inconsistencies. Ensured correct dat
 Analyzed individual features like sales, profit, and order counts to understand their distribution and identify outliers.
 
 **Bivariate & Multivariate Analysis:**
-
 Explored relationships between variables such as:
--Sales vs Profit
--Category vs Profitability
--Region vs Order Volume
-
+- Sales vs Profit
+- Category vs Profitability
+- Region vs Order Volume
 -Payment Method vs Transactions
 
 **Key Trends Identified:**
-
--Certain regions contributed significantly higher sales
+- Certain regions contributed significantly higher sales
 
 -Specific payment methods dominated transaction volume
 
 -Some product categories showed lower profitability despite high sales
 
 **Outlier Detection:**
+- Identified extreme values in sales and profit that could impact analysis.
 
--Identified extreme values in sales and profit that could impact analysis.
-
--Feature Insights for Dashboard:
+- Feature Insights for Dashboard:
 
 Insights from EDA were used to design Power BI visuals such as KPI cards, regional performance charts, and payment method analysis.
 
