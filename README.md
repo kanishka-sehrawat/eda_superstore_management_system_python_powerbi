@@ -51,9 +51,11 @@ This project analyzes a Superstore Management System using a self-created datase
 
 
 ## data_cleaning-preparation
--The dataset was synthetically generated, ensuring controlled data quality with no missing values.
--Standardized data types and addressed outliers to enhance data integrity
--Developed aggregated summary tables across categories, regions, and payment methods to support dashboard insights
+- The dataset was synthetically generated, ensuring controlled data quality with no missing values.
+
+- Standardized data types and addressed outliers to enhance data integrity
+
+- Developed aggregated summary tables across categories, regions, and payment methods to support dashboard insights
 
 
 ## exploratory-data-analysis
