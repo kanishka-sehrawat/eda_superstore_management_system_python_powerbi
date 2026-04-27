@@ -27,14 +27,11 @@ This project presents an end-to-end analysis of a Superstore Management System u
 <h2><a class="anchor" id="business-problem"></a>Business Problem</h2>
 
 This project analyzes a Superstore Management System using a self-created dataset to address key challenges in retail sales and inventory management. 
-
 - It identifies underperforming products and categories, evaluates regional and payment-based contributions to revenue and profit, and examines purchasing efficiency.
-
 - The analysis also highlights inventory turnover inefficiencies and applies statistical methods to validate performance differences, enabling data-driven optimization of pricing, sales, and inventory strategies.
 
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
 - A self-generated Excel dataset (.xls) stored in the /data/ folder
-
 - Data was cleaned, transformed, and used to create a summary table for analysis
 
 <h2><a class="anchor" id="tools-technologies"></a>Tools & Technologies</h2>
@@ -59,9 +56,7 @@ This project analyzes a Superstore Management System using a self-created datase
 
 <h2><a class="anchor" id="data_cleaning-preparation"></a>Data Cleaning & Preparation</h2>
 -The dataset was synthetically generated, ensuring controlled data quality with no missing values.
-
 -Standardized data types and addressed outliers to enhance data integrity
-
 -Developed aggregated summary tables across categories, regions, and payment methods to support dashboard insights
 
 
@@ -75,14 +70,14 @@ Examined dataset structure, data types, and key variables such as sales, profit,
 Checked for missing values, duplicates, and inconsistencies. Ensured correct data types and handled any anomalies.
 
 **Univariate Analysis:**
+
 Analyzed individual features like sales, profit, and order counts to understand their distribution and identify outliers.
+
 **Bivariate & Multivariate Analysis:**
 
 Explored relationships between variables such as:
 -Sales vs Profit
-
 -Category vs Profitability
-
 -Region vs Order Volume
 
 -Payment Method vs Transactions
@@ -150,8 +145,6 @@ pip install -r requirements.txt
 - Leverage high-usage payment methods to improve customer experience
 - Use data-driven insights to guide purchasing and sales decisions
 
-**Kanishka**
-Data Analyst
 
 
 
