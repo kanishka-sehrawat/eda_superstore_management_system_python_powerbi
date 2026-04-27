@@ -31,19 +31,18 @@ This project analyzes a Superstore Management System using a self-created datase
 - The analysis also highlights inventory turnover inefficiencies and applies statistical methods to validate performance differences, enabling data-driven optimization of pricing, sales, and inventory strategies.
 
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
--- A self-generated Excel dataset (.xls) stored in the /data/ folder
+* A self-generated Excel dataset (.xls) stored in the /data/ folder
 
--- Data was cleaned, transformed, and used to create a summary table for analysis
+* Data was cleaned, transformed, and used to create a summary table for analysis
 
 <h2><a class="anchor" id="tools-technologies"></a>Tools & Technologies</h2>
--- Python(Pandas,Numpy,Matplotlib,Seaborn)
-
--- Power BI(Interactive Visualisation)
+* Python(Pandas,Numpy,Matplotlib,Seaborn)
+* Power BI(Interactive Visualisation)
 
 ---
 </h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
 
-superstore-analysis/
+## superstore-analysis/
 * data/:superstore_data.xls
 * notebooks/:analysis.ipynb
 * dashboard/:superstore_dashboard.pbix
