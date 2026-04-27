@@ -36,7 +36,6 @@ This project analyzes a Superstore Management System using a self-created datase
 
 <h2><a class="anchor" id="tools-technologies"></a>Tools & Technologies</h2>
 - Python(Pandas,Numpy,Matplotlib,Seaborn)
-
 - Power BI(Interactive Visualisation)
 
 ---
