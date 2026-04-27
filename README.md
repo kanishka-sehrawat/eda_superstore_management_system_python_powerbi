@@ -42,7 +42,8 @@ This project analyzes a Superstore Management System using a self-created datase
 
 ---
 </h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
-```superstore-analysis/
+```text
+superstore-analysis/
 ├── data/
 │   └── superstore_data.xls
 ├── notebooks/
