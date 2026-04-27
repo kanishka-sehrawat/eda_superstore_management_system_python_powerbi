@@ -61,24 +61,24 @@ This project analyzes a Superstore Management System using a self-created datase
 ## exploratory-data-analysis
 The exploratory data analysis (EDA) phase was conducted to understand the structure, patterns, and key relationships within the Superstore dataset. Since the dataset was self-generated, this step also ensured data consistency and realism.
 
-**Data Understanding:**
+**1.Data Understanding:**
 Examined dataset structure, data types, and key variables such as sales, profit, region, category, and payment method.
 
-**Data Cleaning:**
+**2.Data Cleaning:**
 Checked for missing values, duplicates, and inconsistencies. Ensured correct data types and handled any anomalies.
 
 **Univariate Analysis:**
 
 Analyzed individual features like sales, profit, and order counts to understand their distribution and identify outliers.
 
-**Bivariate & Multivariate Analysis:**
+**3.Bivariate & Multivariate Analysis:**
 Explored relationships between variables such as:
 - Sales vs Profit
 - Category vs Profitability
 - Region vs Order Volume
--Payment Method vs Transactions
+- Payment Method vs Transactions
 
-**Key Trends Identified:**
+**4.Key Trends Identified:**
 - Certain regions contributed significantly higher sales
 
 -Specific payment methods dominated transaction volume
