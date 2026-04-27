@@ -44,28 +44,17 @@ This project analyzes a Superstore Management System using a self-created datase
 
 ---
 </h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
-```
-superstore-analysis/
-│
-├── README.md
-
-├── requirements.txt
-
-│
+```superstore-analysis/
 ├── data/
 │   └── superstore_data.xls
-
-│
 ├── notebooks/
 │   └── analysis.ipynb
-
-│
 ├── dashboard/
 │   └── superstore_dashboard.pbix
-
-│
-└── images/
-    └── dashboard_preview.png
+├── images/
+│   └── dashboard_preview.png
+├── README.md
+└── requirements.txt
 ```
 
 <h2><a class="anchor" id="data_cleaning-preparation"></a>Data Cleaning & Preparation</h2>
