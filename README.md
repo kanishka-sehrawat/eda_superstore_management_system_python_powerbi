@@ -67,10 +67,10 @@ Examined dataset structure, data types, and key variables such as sales, profit,
 **2.Data Cleaning:**
 Checked for missing values, duplicates, and inconsistencies. Ensured correct data types and handled any anomalies.
 
-**Univariate Analysis:**
+**3.Univariate Analysis:**
 Analyzed individual features like sales, profit, and order counts to understand their distribution and identify outliers.
 
-**3.Bivariate & Multivariate Analysis:**
+**4.Bivariate & Multivariate Analysis:**
 
 Explored relationships between variables such as:
 - Sales vs Profit
@@ -78,14 +78,14 @@ Explored relationships between variables such as:
 - Region vs Order Volume
 - Payment Method vs Transactions
 
-**4.Key Trends Identified:**
+**5.Key Trends Identified:**
 - Certain regions contributed significantly higher sales
 
 - Specific payment methods dominated transaction volume
 
 - Some product categories showed lower profitability despite high sales
 
-**Outlier Detection:**
+**6.Outlier Detection:**
 - Identified extreme values in sales and profit that could impact analysis.
 
 - Feature Insights for Dashboard:
