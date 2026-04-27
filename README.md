@@ -20,28 +20,28 @@ _Analysing store efficiency and profitability to support strategic purchasing an
 - <a href="#author--contact">Author & Contact</a>
 
 ---
-<h2><a class="anchor" id="overview"></a>Overview</h2>
+## Overview
 
 This project presents an end-to-end analysis of a Superstore Management System using a self-generated dataset. Python was used for data creation, exploratory analysis, and hypothesis testing, while Power BI was used to develop interactive dashboards. The analysis provides actionable insights into sales performance, customer purchasing behavior, pricing strategies, and inventory optimization.
 
-<h2><a class="anchor" id="business-problem"></a>Business Problem</h2>
+## business-problem
 
 This project analyzes a Superstore Management System using a self-created dataset to address key challenges in retail sales and inventory management. 
 - It identifies underperforming products and categories, evaluates regional and payment-based contributions to revenue and profit, and examines purchasing efficiency.
 - The analysis also highlights inventory turnover inefficiencies and applies statistical methods to validate performance differences, enabling data-driven optimization of pricing, sales, and inventory strategies.
 
-<h2><a class="anchor" id="dataset"></a>Dataset</h2>
+##  dataset
 -- A self-generated Excel dataset (.xls) stored in the /data/ folder
 
 -- Data was cleaned, transformed, and used to create a summary table for analysis
 
-<h2><a class="anchor" id="tools-technologies"></a>Tools & Technologies</h2>
+## tools-technologies
 -- Python(Pandas,Numpy,Matplotlib,Seaborn)
 
 -- Power BI(Interactive Visualisation)
 
-</h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
-## superstore-analysis/
+## project-structure
+### superstore-analysis/
 * data/:superstore_data.xls
 * notebooks/:analysis.ipynb
 * dashboard/:superstore_dashboard.pbix
@@ -50,13 +50,13 @@ This project analyzes a Superstore Management System using a self-created datase
 * requirements.txt:Python dependecies
 
 
-<h2><a class="anchor" id="data_cleaning-preparation"></a>Data Cleaning & Preparation</h2>
+## data_cleaning-preparation
 -The dataset was synthetically generated, ensuring controlled data quality with no missing values.
 -Standardized data types and addressed outliers to enhance data integrity
 -Developed aggregated summary tables across categories, regions, and payment methods to support dashboard insights
 
 
-<h2><a class="anchor" id="exploratory-data-analysis"></a>Exploratory Data Analysis(EDA)</h2>
+## exploratory-data-analysis
 The exploratory data analysis (EDA) phase was conducted to understand the structure, patterns, and key relationships within the Superstore dataset. Since the dataset was self-generated, this step also ensured data consistency and realism.
 
 **Data Understanding:**
@@ -94,7 +94,7 @@ Explored relationships between variables such as:
 
 Insights from EDA were used to design Power BI visuals such as KPI cards, regional performance charts, and payment method analysis.
 
-<h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
+## dashboard
 - Dynamic filtering by region, category, and payment method
 
 - KPI cards highlighting total sales, profit, and top-performing payment method
@@ -135,7 +135,7 @@ pip install -r requirements.txt
 * Use filters and visuals to explore insights
 
 ---
-<h2><a class="anchor" id="final-recommendations"</a>Final Recommendations</h2>
+## final-recommendations
 - Focus on promoting high-performing products and regions to maximize revenue
 - Re-evaluate pricing or strategy for underperforming products
 - Leverage high-usage payment methods to improve customer experience
