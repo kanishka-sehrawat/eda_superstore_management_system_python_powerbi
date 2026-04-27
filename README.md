@@ -27,15 +27,19 @@ This project presents an end-to-end analysis of a Superstore Management System u
 <h2><a class="anchor" id="business-problem"></a>Business Problem</h2>
 
 This project analyzes a Superstore Management System using a self-created dataset to address key challenges in retail sales and inventory management. 
+
 - It identifies underperforming products and categories, evaluates regional and payment-based contributions to revenue and profit, and examines purchasing efficiency.
+
 - The analysis also highlights inventory turnover inefficiencies and applies statistical methods to validate performance differences, enabling data-driven optimization of pricing, sales, and inventory strategies.
 
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
 - A self-generated Excel dataset (.xls) stored in the /data/ folder
+
 - Data was cleaned, transformed, and used to create a summary table for analysis
 
 <h2><a class="anchor" id="tools-technologies"></a>Tools & Technologies</h2>
 - Python(Pandas,Numpy,Matplotlib,Seaborn)
+
 - Power BI(Interactive Visualisation)
 
 ---
@@ -44,16 +48,21 @@ This project analyzes a Superstore Management System using a self-created datase
 superstore-analysis/
 │
 ├── README.md
+
 ├── requirements.txt
+
 │
 ├── data/
 │   └── superstore_data.xls
+
 │
 ├── notebooks/
 │   └── analysis.ipynb
+
 │
 ├── dashboard/
 │   └── superstore_dashboard.pbix
+
 │
 └── images/
     └── dashboard_preview.png
@@ -61,7 +70,9 @@ superstore-analysis/
 
 <h2><a class="anchor" id="data_cleaning-preparation"></a>Data Cleaning & Preparation</h2>
 -The dataset was synthetically generated, ensuring controlled data quality with no missing values.
+
 -Standardized data types and addressed outliers to enhance data integrity
+
 -Developed aggregated summary tables across categories, regions, and payment methods to support dashboard insights
 
 
@@ -80,25 +91,38 @@ Analyzed individual features like sales, profit, and order counts to understand 
 
 Explored relationships between variables such as:
 -Sales vs Profit
+
 -Category vs Profitability
+
 -Region vs Order Volume
+
 -Payment Method vs Transactions
+
 **Key Trends Identified:**
 
 -Certain regions contributed significantly higher sales
+
 -Specific payment methods dominated transaction volume
+
 -Some product categories showed lower profitability despite high sales
+
 **Outlier Detection:**
 
 -Identified extreme values in sales and profit that could impact analysis.
+
 -Feature Insights for Dashboard:
+
 Insights from EDA were used to design Power BI visuals such as KPI cards, regional performance charts, and payment method analysis.
 
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
 - Dynamic filtering by region, category, and payment method
+
 - KPI cards highlighting total sales, profit, and top-performing payment method
+
 - Visual analysis of sales and profit across regions and product categories
+
 - Identification of high-performing and underperforming segments
+
 - Insights into purchasing patterns and payment preferences
 
 ![Superstore Management Dashboard](
